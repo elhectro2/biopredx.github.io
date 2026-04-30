@@ -1,1 +1,3 @@
-# biopredx.github.io
+# BioPredX
+### Smarter biology starts here
+
