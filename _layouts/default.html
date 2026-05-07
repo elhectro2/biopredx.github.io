@@ -19,7 +19,7 @@
       <h1> <img src="./assets/image/BioPredX_logo.png" width=75%> </h1>
       <h1 class="Row" align center>
   {% for item in site.data.navigation %}
-    <div class="Column"><a href="{{ item.link }}"{% if page.url == "/biopredx.github.io" item.link %} class="current"{% endif %}>{{ item.name }}</a></div>
+    <div class="Column"><a href="{{ item.link }}"{% if {site.url}{page.url} ==  item.link %} class="current"{% endif %}>{{ item.name }}</a></div>
   {% endfor %}
   </h1>
     </header>
