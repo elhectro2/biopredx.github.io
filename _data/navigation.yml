@@ -1,10 +1,10 @@
 - name: Home
-  link: /
+  link: /biopredx.github.io/
 - name: Quiénes somos
-  link: /quienes-somos.html
+  link: /biopredx.github.io/quienes-somos.html
 - name: Servicios
-  link: /servicios.html
+  link: /biopredx.github.io/servicios.html
 - name: Contacto
-  link: /contacto.html
+  link: /biopredx.github.io/contacto.html
 - name: Protposer
   link: http://protposer.biopredx.com
