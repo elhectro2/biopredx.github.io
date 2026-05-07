@@ -1,10 +1,10 @@
 - name: Home
   link: /
-- name: About
-  link: /about.html
-- name: Blog
-  link: /blog.html
-- name: Staff
-  link: /staff.html
+- name: Quiénes somos
+  link: /quienes-somos.html
+- name: Servicios
+  link: /servicios.html
+- name: Contacto
+  link: /contacto.html
 - name: Protposer
   link: http://protposer.biopredx.com
