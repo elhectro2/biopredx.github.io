@@ -28,7 +28,7 @@
 body {
   padding: 0;
   margin: 0;
-  font-family: "Ebrima", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Ebrima", "Roboto", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
   color: $body-text-color;
@@ -133,7 +133,12 @@ a {
   .Column {
     display: table-cell;
     background-color: #3BCCFF; /*Optional*/
-    font-size:3vw;
+    font-size:2.5vw;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
   }
 }
 
