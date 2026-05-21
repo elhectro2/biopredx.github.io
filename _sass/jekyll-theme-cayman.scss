@@ -134,11 +134,7 @@ a {
     display: table-cell;
     background-color: #3BCCFF; /*Optional*/
     font-size:2.5vw;
-    margin: 0;
-    position: absolute;
-    top: 50%;
-    -ms-transform: translateY(-50%);
-    transform: translateY(-50%);
+    vertical-align: middle;
   }
 }
 
