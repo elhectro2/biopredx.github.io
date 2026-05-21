@@ -11,6 +11,8 @@ Nuestras tecnologías ayudan a investigadores, empresas biotecnológicas y equip
 
 En BioPredX sabemos que la biología predictiva será un pilar central en la próxima generación de la biotecnología y la medicina de precisión. La capacidad de anticipar el comportamiento molecular mediante datos, modelado y comprensión mecanística acelerará el progreso de nuevas tecnologías y procesos.
 
+![Misión, visión y valores](/assets/image/Mission.jpg)
+
 ## Nuestra misión
 
 Desarrollar herramientas computacionales rigurosas y accesibles que ayuden a empresas biotecnológicas, clínicos e investigadores a resolver retos biológicos complejos de forma más eficiente.
@@ -35,6 +37,7 @@ BioPredX aspira a convertirse en una empresa de referencia en predicción bioló
 - **Colaboración:** Valoramos la colaboración interdisciplinar entre entornos académicos, biotecnológicos y sanitarios.[3.1]
  
 ## El equipo
+![Foto del equipo](/assets/image/Escaleras.jpg)
 
 BioPredX reúne experiencia en biología estructural, bioinformática, aprendizaje automático, desarrollo de software y biotecnología traslacional.
 
