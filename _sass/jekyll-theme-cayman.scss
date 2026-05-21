@@ -54,7 +54,7 @@ body {
 
 a {
   color: $body-link-color;
-  text-decoration: underline;
+  text-decoration: none;
 
   &:hover {
     text-decoration: underline;
@@ -229,6 +229,17 @@ a {
     margin-bottom: 1em;
   }
 
+  a {
+  color: #009BD0;
+  text-decoration: underline;
+
+  &:hover {
+    color: #DE9B31;
+    text-decoration: underline;
+  }
+}
+
+  
   code {
     padding: 2px 4px;
     font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
