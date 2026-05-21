@@ -5,6 +5,7 @@ title: Home
 
 > # Biología predictiva: accesible, personalizable y sostenible
 
+![Home image](/assets/image/Home.png)
 En BioPredX combinamos biología estructural, aprendizaje automático y grandes volúmenes de datos biológicos para desarrollar software avanzado para ingeniería de proteínas e interpretación de variantes de ADN. 
 
 Nuestras plataformas ayudan a científicos y clínicos a tomar decisiones más rápidas y mejor fundamentadas en biotecnología, biomedicina y medicina de precisión. [Conoce más sobre nuestras soluciones](/biopredx.github.io/servicios.html).
