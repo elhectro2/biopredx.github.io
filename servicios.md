@@ -12,7 +12,7 @@ Las proteínas son elementos centrales de la biotecnología, la biocatálisis in
 
 BioPredX desarrolla tecnologías predictivas capaces de identificar mutaciones estabilizantes y acelerar los procesos de optimización de proteínas.
 
-![Diseño de proteínas]("/assets/image/Protein engineering.png")
+![Diseño de proteínas](/assets/image/Protein-engineering.png)
  
 ### Aplicaciones
 -	Desarrollo biofarmacéutico 
@@ -52,7 +52,7 @@ Su metodología ha sido validada mediante estudios revisados por pares y aplicac
 El uso creciente de la secuenciación genómica en la práctica clínica requiere herramientas fiables para interpretar el impacto biológico de las variantes genéticas.
 
 BioPredX desarrolla soluciones computacionales que apoyan el análisis genómico mediante modelado avanzado e interpretación estructural. 
- ![Evaluación genética]("/assets/image/Genetic assessment.png")
+ ![Evaluación genética](/assets/image/Genetic-assessment.png)
  
 ### Aplicaciones
 
