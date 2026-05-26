@@ -10,7 +10,7 @@ Las herramientas desarrolladas por BioPredX se pueden utilizar como SaaS y/o on-
 - ## [Diseño racional de proteínas](/biopredx.github.io/servicios.html#diseño-racional-de-proteínas)
 Predicción de mutaciones para mejorar estabilidad, funcionalidad y rendimiento proteico.
 
-- ## [Diagnóstico genético](/biopredx.github.io/servicios.html#diagnóstico-genético)
+- ## [Evaluación genética](/biopredx.github.io/servicios.html#diagnóstico-genético)
 Análisis avanzado de variantes genéticas con contexto biológico y estructural.
 
 - ## [IA científica explicable](/biopredx.github.io/servicios.html)
