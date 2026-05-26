@@ -7,13 +7,13 @@ BioPredX desarrolla software predictivo para estimar los efectos biológicos de 
 
 Las herramientas desarrolladas por BioPredX se pueden utilizar como SaaS y/o on-premise, facilitando el acceso y agilizando al máximo los tiempos de respuesta al cliente.
 
-- [Diseño racional de proteínas](/biopredx.github.io/servicios.html#diseño-racional-de-proteínas)
+- ## [Diseño racional de proteínas](/biopredx.github.io/servicios.html#diseño-racional-de-proteínas)
 Predicción de mutaciones para mejorar estabilidad, funcionalidad y rendimiento proteico.
 
-- [Diagnóstico genético](/biopredx.github.io/servicios.html#diagnóstico-genético)
+- ## [Diagnóstico genético](/biopredx.github.io/servicios.html#diagnóstico-genético)
 Análisis avanzado de variantes genéticas con contexto biológico y estructural.
 
-- IA científica explicable
+- ## IA científica explicable
 Modelos predictivos interpretables diseñados para aplicaciones reales.
 
 En BiopredX creemos que la biología predictiva ya es un pilar esencial de la biotecnología y la medicina de precisión. Nuestras plataformas generan propuestas moleculares concretas, fáciles de interpretar y sencillas de implementar, reduciendo drásticamente el número de ensayos necesarios para identificar las variantes óptimas para cada aplicación. [Conoce más sobre nuestras soluciones](/biopredx.github.io/servicios.html).
