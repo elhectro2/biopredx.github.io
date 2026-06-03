@@ -3,9 +3,9 @@ layout: default
 title: Home
 ---
 ![Home image](/assets/image/Home.png)
-*BioPredX desarrolla software predictivo para estimar las propiedades relevantes de las biomoléculas, ya sea para producir variantes nuevas o para seleccionar las óptimas, en los mercados de Salud, Agro e Industria.* Nuestro principal objetivo es ayudar a empresas, profesionales de la salud, y científicos a tomar decisiones más rápidas y mejor fundamentadas en biotecnología, biomedicina y medicina de precisión. Nuestras plataformas combinan biología estructural, aprendizaje automático y análisis de datos a gran escala para optimizar biomoléculas e interpretar variantes genéticas. 
+**BioPredX desarrolla software predictivo para estimar las propiedades relevantes de las biomoléculas, ya sea para producir variantes nuevas o para seleccionar las óptimas, en los mercados de Salud, Agro e Industria.** Nuestro principal objetivo es ayudar a empresas, profesionales de la salud, y científicos a tomar decisiones más rápidas y mejor fundamentadas en biotecnología, biomedicina y medicina de precisión. Nuestras plataformas combinan biología estructural, aprendizaje automático y análisis de datos a gran escala para optimizar biomoléculas e interpretar variantes genéticas. 
 
-Las herramientas desarrolladas por BioPredX *se pueden utilizar como SaaS y/o on-premise*, facilitando el acceso y agilizando al máximo los tiempos de respuesta al cliente.
+Las herramientas desarrolladas por BioPredX **se pueden utilizar como SaaS y/o on-premise**, facilitando el acceso y agilizando al máximo los tiempos de respuesta al cliente.
 
 - ## [Diseño racional de proteínas](/biopredx.github.io/servicios.html#diseño-racional-de-proteínas)
 Predicción de mutaciones para mejorar estabilidad, funcionalidad y rendimiento proteico. [Estabiliza tus proteínas con Protposer](/biopredx.github.io/servicios.html#protposer)
