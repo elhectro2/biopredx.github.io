@@ -50,7 +50,6 @@ La plataforma proporciona:
 
 **Acerca de Protposer**
 
-(enlaces o DOI aquí)
 [Protposer: The web server that readily proposes protein stabilizing mutations with high PPV. García-Cebollada H, López A, Sancho J.Comput Struct Biotechnol J. 2022 May 10;20:2415-2433. doi: 10.1016/j.csbj.2022.05.008. eCollection 2022.PMID: 35664235 Free PMC article.](10.1016/j.csbj.2022.05.008)
 
 [Protein thermostabilization with Protposer: Pushing the stability limits and folding reversibility of a highly-stabilized apoflavodoxin. Hidalgo-Toledo A, Bazco D, Correa-Pérez V, Martínez-Júlvez M, Sancho J.Int J Biol Macromol. 2025 Nov;331(Pt 1):148333. doi: 10.1016/j.ijbiomac.2025.148333. Epub 2025 Oct 15.PMID: 41106744](10.1016/j.ijbiomac.2025.148333)
