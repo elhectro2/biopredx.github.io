@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 ![Home image](/assets/image/Home.png)
-**BioPredX desarrolla software predictivo para estimar las propiedades relevantes de las biomoléculas, ya sea para producir variantes nuevas o para seleccionar las óptimas, en los mercados de Salud, Agro e Industria.** Nuestro principal objetivo es ayudar a empresas, profesionales de la salud, y científicos a tomar decisiones más rápidas y mejor fundamentadas en biotecnología, biomedicina y medicina de precisión. Nuestras plataformas combinan biología estructural, aprendizaje automático y análisis de datos a gran escala para optimizar biomoléculas e interpretar variantes genéticas. 
+**BioPredX desarrolla software predictivo que estima las propiedades relevantes de las biomoléculas para producir variantes nuevas o para seleccionar las óptimas, en los mercados de Salud, Agro e Industria.** Nuestro principal objetivo es ayudar a empresas, profesionales de la salud, y científicos a tomar decisiones más rápidas y mejor fundamentadas en biotecnología, biomedicina y medicina de precisión. Nuestras plataformas combinan biología estructural, aprendizaje automático y análisis de datos a gran escala para optimizar biomoléculas e interpretar variantes genéticas. 
 
 Las herramientas desarrolladas por BioPredX **se pueden utilizar como SaaS y/o on-premise**, facilitando el acceso y agilizando al máximo los tiempos de respuesta al cliente.
 
@@ -14,8 +14,8 @@ Predicción de mutaciones para mejorar estabilidad, funcionalidad y rendimiento 
 Análisis avanzado de variantes genéticas con contexto biológico y estructural. [Acelera el diagnóstico genético con Globalpred](/biopredx.github.io/servicios.html#globalpred)
 
 - ## [IA científica explicable](/biopredx.github.io/servicios.html)
-Modelos predictivos interpretables diseñados para aplicaciones reales. 
+Modelos predictivos interpretables diseñados para la toma de decisiones en biotecnología y medicina. 
 
 En BiopredX creemos que la biología predictiva ya es un pilar esencial de la biotecnología y la medicina de precisión. Nuestros productos generan propuestas moleculares concretas, fáciles de interpretar y sencillas de implementar, reduciendo drásticamente el número de ensayos necesarios para identificar las variantes óptimas para cada aplicación. [Conoce más sobre nuestras soluciones](/biopredx.github.io/servicios.html).
 
-BioPredX es una solución única que une ciencia con personas de manera global y multisectorial para dar valor a la diversidad biológica, mejorar la calidad de vida y avanzar la industria cuidando el medio ambiente. [Conoce nuestros valores](/biopredx.github.io/quienes-somos.html)
+BioPredX une ciencia con personas de manera global y multisectorial para dar valor a la diversidad biológica, mejorar la calidad de vida y avanzar la industria cuidando el medio ambiente. [Conoce nuestros valores](/biopredx.github.io/quienes-somos.html)
