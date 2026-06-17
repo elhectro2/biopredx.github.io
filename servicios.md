@@ -21,7 +21,7 @@ Protposer es nuestra plataforma para estabilización de proteínas. Propone muta
 - **Aceleración Comercial:** Acorta de años a meses el desarrollo de nuevos productos biotecnológicos
 
 
-![Diseño de proteínas](/assets/image/Protein-engineering.png)
+![Diseño de proteínas](/assets/image/DisenoProteinas.JPG)
  
 ### Aplicaciones
 -	Desarrollo de fármacos biológicos 
@@ -46,7 +46,7 @@ La plataforma proporciona:
 
 ¿Quieres optimizar proteínas? Solicita acceso a nuestra Demo SaaS en [info@biopredx.com](info@biopredx.com)
 
-![Protposer](/assets/image/Protposer.png)
+![Protposer](/assets/image/Protposer.JPG)
 
 **Acerca de Protposer**
 
@@ -65,7 +65,7 @@ BioPredX ha desarrollado Globalpred, una plataforma de ayuda al diagnóstico gen
 
 Globalpred apoya al personal clínico a evaluar la patogenicidad de las variantes y revela sus posibles consecuencias moleculares, proporcionando un informe intuitivo de forma inmediata. Globalpred puede ejecutarse en on-premise o en entorno Cloud
 
- ![Evaluación genética](/assets/image/Genetic-assessment.png)
+ ![Evaluación genética](/assets/image/EvaluacionGenetica.JPG)
  
 ### Aplicaciones
 
@@ -89,7 +89,7 @@ Ventajas de Globalpred:
 
 Contacta con nosotros en [info@biopredx.com](info@biopredx.com) para para más información o para iniciar un programa piloto.
 
-![Globalpred](/assets/image/Globalpred.png)
+![Globalpred](/assets/image/Globalpred.JPG)
 
 **Acerca de Globalpred**
 
