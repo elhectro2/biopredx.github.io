@@ -11,7 +11,7 @@ Nuestras tecnologías ayudan a investigadores, empresas biotecnológicas y equip
 
 En BioPredX sabemos que la biología predictiva será un pilar central en la próxima generación de la biotecnología y la medicina de precisión. La capacidad de anticipar el comportamiento molecular mediante datos, modelado y comprensión mecanística acelerará el progreso de nuevas tecnologías y procesos.
 
-![Misión, visión y valores](/assets/image/Mission.png)
+![Misión, visión y valores](/assets/image/Mision.JPG)
 
 ## Nuestra misión
 
