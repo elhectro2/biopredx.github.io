@@ -6,6 +6,7 @@ title: Contacto
 # Contacta con nosotros
 
 Estamos ubicados en Zaragoza, España, y colaboramos con socios académicos, biotecnológicos y sanitarios a nivel internacional.
+
 ![Contacto](/assets/image/Contacto.JPG)
 
 ### BioPredX
