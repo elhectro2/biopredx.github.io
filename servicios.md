@@ -39,7 +39,7 @@ La plataforma proporciona:
 
 ![Protposer](/assets/image/Protposer.JPG)
 
-**Impacto** real de Protposer:
+**Impacto real de Protposer:**
 
 - **Aumento de la eficiencia:** Reduce los ensayos en el laboratorio en un 95%.
 - **Maximización del ROI:** Disminuye drásticamente los costes de I+D.
