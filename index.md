@@ -13,7 +13,7 @@ Predicción de mutaciones para mejorar estabilidad, funcionalidad y rendimiento 
 - ## [Evaluación genética](/biopredx.github.io/servicios.html#diagnóstico-genético)
 Análisis avanzado de variantes genéticas con contexto biológico y estructural. [Acelera el diagnóstico genético con Globalpred](/biopredx.github.io/servicios.html#globalpred)
 
-- ## [IA científica explicable](/biopredx.github.io/servicios.html)
+- ## [IA científica explicable](/biopredx.github.io/servicios.html#ia-científica-explicable)
 Modelos predictivos interpretables diseñados para la toma de decisiones en biotecnología y medicina. 
 
 En BiopredX creemos que la biología predictiva ya es un pilar esencial de la biotecnología y la medicina de precisión. Nuestros productos generan propuestas moleculares concretas, fáciles de interpretar y sencillas de implementar, reduciendo drásticamente el número de ensayos necesarios para identificar las variantes óptimas para cada aplicación. [Conoce más sobre nuestras soluciones](/biopredx.github.io/servicios.html).
