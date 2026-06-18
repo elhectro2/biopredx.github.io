@@ -106,3 +106,7 @@ Contacta con nosotros en [info@biopredx.com](info@biopredx.com) para para más i
 [BRCA1- and BRCA2-specific in silico tools for variant interpretation in the CAGI 5 ENIGMA challenge](10.1002/humu.23802)
 
 [Structural and Computational Characterization of Disease-Related Mutations Involved in Protein-Protein Interfaces](10.3390/ijms20071583)
+
+## IA científica explicable
+
+Creamos modelos predictivos adaptados a las necesidades de cada proyecto. Utilizamos inteligencia artificial explicable para identificar patrones biológicos y generar resultados transparentes, robustos y accionables.
