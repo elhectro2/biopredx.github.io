@@ -14,13 +14,6 @@ El uso eficaz de muchas proteínas sigue estando limitado por una estabilidad in
 
 Protposer es nuestra plataforma para estabilización de proteínas. Propone mutaciones concretas que mejoran la estabilidad de las proteínas para que sean más fáciles de producir y conservar, y más resistentes en condiciones de uso exigentes. No requiere instalación previa y funciona como SaaS.
 
-**Impacto** real de Protposer:
-
-- **Aumento de la eficiencia:** Reduce los ensayos en el laboratorio en un 95%.
-- **Maximización del ROI:** Disminuye drásticamente los costes de I+D.
-- **Aceleración Comercial:** Acorta de años a meses el desarrollo de nuevos productos biotecnológicos
-
-
 ![Diseño de proteínas](/assets/image/DisenoProteinas.JPG)
  
 ### Aplicaciones
@@ -44,17 +37,25 @@ La plataforma proporciona:
 -	Justificación estructural y mecanística de cada mutación
 -	Informes intuitivos para planificación experimental
 
+![Protposer](/assets/image/Protposer.JPG)
+
+**Impacto** real de Protposer:
+
+- **Aumento de la eficiencia:** Reduce los ensayos en el laboratorio en un 95%.
+- **Maximización del ROI:** Disminuye drásticamente los costes de I+D.
+- **Aceleración Comercial:** Acorta de años a meses el desarrollo de nuevos productos biotecnológicos
+
 ¿Quieres optimizar proteínas? Solicita acceso a nuestra Demo SaaS en [info@biopredx.com](info@biopredx.com)
 
-![Protposer](/assets/image/Protposer.JPG)
+
 
 **Acerca de Protposer**
 
-[Protposer: The web server that readily proposes protein stabilizing mutations with high PPV. García-Cebollada H, López A, Sancho J.Comput Struct Biotechnol J. 2022 May 10;20:2415-2433. doi: 10.1016/j.csbj.2022.05.008. eCollection 2022.PMID: 35664235 Free PMC article.](10.1016/j.csbj.2022.05.008)
+[Protposer: The web server that readily proposes protein stabilizing mutations with high PPV](10.1016/j.csbj.2022.05.008)
 
-[Protein thermostabilization with Protposer: Pushing the stability limits and folding reversibility of a highly-stabilized apoflavodoxin. Hidalgo-Toledo A, Bazco D, Correa-Pérez V, Martínez-Júlvez M, Sancho J.Int J Biol Macromol. 2025 Nov;331(Pt 1):148333. doi: 10.1016/j.ijbiomac.2025.148333. Epub 2025 Oct 15.PMID: 41106744](10.1016/j.ijbiomac.2025.148333)
+[Protein thermostabilization with Protposer: Pushing the stability limits and folding reversibility of a highly-stabilized apoflavodoxin](10.1016/j.ijbiomac.2025.148333)
 
-[Domain-guided engineering of a thermoresistant Vip3A toxin for enhanced functional robustness. Kunlawatwimon T, Bourdeaux F, Boonserm P, Soonsanga S, Luka J, Promdonkoy B, Schwaneberg U.Sci Rep. 2026 Apr 21;16(1):13016. doi: 10.1038/s41598-026-47865-0.PMID: 42014424](10.1038/s41598-026-47865-0)
+[Domain-guided engineering of a thermoresistant Vip3A toxin for enhanced functional robustness](10.1038/s41598-026-47865-0)
 
 
 ## Evaluación genética
@@ -81,24 +82,27 @@ Globalpred es nuestra plataforma para la interpretación de variantes genéticas
 
 Globalpred se comercializa como licencia anual para hospitales públicos y privados, clínicas de diagnóstico molecular y profesionales de la salud que requieran de un diagnóstico genético para mejorar la calidad de vida de sus pacientes.
 
-Ventajas de Globalpred:
+**Ventajas de Globalpred:**
 
--	Soporte Clínico de Alta Fiabilidad: Proporciona informes automáticos e intuitivos, con excelentes estadísticos, listos para la toma de decisiones médicas.
--	Flexibilidad y Seguridad de Datos: Disponible en entorno Cloud o despliegue On-Premise, garantizando el cumplimiento estricto de las normativas de privacidad de datos médicos (RGPD).
--	Eficiencia de Costes: Reduce el tiempo de análisis por paciente y contribuye a acelerar los diagnósticos, disminuyendo el gasto global en salud.
-
-Contacta con nosotros en [info@biopredx.com](info@biopredx.com) para para más información o para iniciar un programa piloto.
+-	**Soporte Clínico de Alta Fiabilidad:** Proporciona informes automáticos e intuitivos, con excelentes estadísticos, listos para la toma de decisiones médicas.
+-	**Flexibilidad y Seguridad de Datos:** Disponible en entorno Cloud o despliegue On-Premise, garantizando el cumplimiento estricto de las normativas de privacidad de datos médicos (RGPD).
+-	**Eficiencia de Costes:** Reduce el tiempo de análisis por paciente y contribuye a acelerar los diagnósticos, disminuyendo el gasto global en salud.
 
 ![Globalpred](/assets/image/Globalpred.JPG)
 
+
+Contacta con nosotros en [info@biopredx.com](info@biopredx.com) para para más información o para iniciar un programa piloto.
+
+
+
 **Acerca de Globalpred**
 
-[PirePred: An Accurate Online Consensus Tool to Interpret Newborn Screening-Related Genetic Variants in Structural Context. Galano-Frutos JJ, García-Cebollada H, López A, Rosell M, de la Cruz X, Fernández-Recio J, Sancho J.J Mol Diagn. 2022 Apr;24(4):406-425. doi: 10.1016/j.jmoldx.2022.01.005. Epub 2022 Feb 7.PMID: 35143952 Free article.](10.1016/j.jmoldx.2022.01.005)
+[PirePred: An Accurate Online Consensus Tool to Interpret Newborn Screening-Related Genetic Variants in Structural Context](10.1016/j.jmoldx.2022.01.005)
 
-[Choosing Variant Interpretation Tools for Clinical Applications: Context Matters. Aguirre J, Padilla N, Özkan S, Riera C, Feliubadaló L, de la Cruz X.Int J Mol Sci. 2023 Jul 24;24(14):11872. doi: 10.3390/ijms241411872.PMID: 37511631 Free PMC article.](10.3390/ijms241411872)
+[Choosing Variant Interpretation Tools for Clinical Applications: Context Matters](10.3390/ijms241411872)
 
-[Towards a New, Endophenotype-Based Strategy for Pathogenicity Prediction in BRCA1 and BRCA2: In Silico Modeling of the Outcome of HDR/SGE Assays for Missense Variants. Özkan S, Padilla N, de la Cruz X.Int J Mol Sci. 2021 Jun 9;22(12):6226. doi: 10.3390/ijms22126226.PMID: 34207612 Free PMC article.](10.3390/ijms22126226)
+[Towards a New, Endophenotype-Based Strategy for Pathogenicity Prediction in BRCA1 and BRCA2: In Silico Modeling of the Outcome of HDR/SGE Assays for Missense Variants](10.3390/ijms22126226)
 
-[BRCA1- and BRCA2-specific in silico tools for variant interpretation in the CAGI 5 ENIGMA challenge. Padilla N, Moles-Fernández A, Riera C, Montalban G, Özkan S, Ootes L, Bonache S, Díez O, Gutiérrez-Enríquez S, de la Cruz X.Hum Mutat. 2019 Sep;40(9):1593-1611. doi: 10.1002/humu.23802. Epub 2019 Jul 3.PMID: 31112341 Free PMC article.](10.1002/humu.23802)
+[BRCA1- and BRCA2-specific in silico tools for variant interpretation in the CAGI 5 ENIGMA challenge](10.1002/humu.23802)
 
-[Structural and Computational Characterization of Disease-Related Mutations Involved in Protein-Protein Interfaces. Navío D, Rosell M, Aguirre J, de la Cruz X, Fernández-Recio J.Int J Mol Sci. 2019 Mar 29;20(7):1583. doi: 10.3390/ijms20071583.PMID: 30934865 Free PMC article.](10.3390/ijms20071583)
+[Structural and Computational Characterization of Disease-Related Mutations Involved in Protein-Protein Interfaces](10.3390/ijms20071583)
